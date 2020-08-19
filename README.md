@@ -18,4 +18,4 @@ This app was created using mongoose, express, node.js.
 [Github- kimberlyj227](https://github.com/kimberlyj227)<br>
 Email : kimberlycodes27@gmail.com
 ## Links
-[Budget Tracker](https://kimberlyj227.github.io/budget-tracker/)
+[Budget Tracker](https://budgeting-tracker-master.herokuapp.com/)
